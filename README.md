@@ -1,9 +1,6 @@
 # Dynamic-sales-Dashboard
 ### This is a Sales Dashboard and dashboard shows sales from year 2019-2020. This repository contain information about Excel project.
-<br>
-<h2>
-<p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/01/d6/1f/01d61f2df15d6f63251c1ec4ebb0824f.gif"/></p> Aim
-</h2>
+
 ## Objective: 
 Making a Dynamic Dashboard by analyzing the data in Excel.
 <br>
