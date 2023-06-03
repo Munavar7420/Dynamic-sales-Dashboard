@@ -14,7 +14,7 @@
 
 2. Created an area chart to analyze GM Trend for every month.
 
-3. Created two semi pie-chart to analyze discount and gross margin. 
+3. Created two donut charts to analyze discount and gross margin. 
 
 4. Created a slicer based on products.
 
